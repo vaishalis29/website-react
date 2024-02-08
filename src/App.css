@@ -1,0 +1,114 @@
+nav{
+  
+    background-color: aqua;
+    color: black;
+    padding: 5%;
+  }
+  h3{
+    
+   text-align: right;
+   color: rgb(246, 30, 192);
+  }
+  h1{
+    
+    text-align: center;
+  }
+  
+  li,ul,h3{
+    display: inline;
+  }
+  
+  ul{
+    
+    color: darkred;
+   margin-left: 70%;
+   padding-bottom: 10px;
+  }
+  li{
+    
+    padding: 20px;
+    cursor: pointer;
+  }
+  .color{
+    background-color:lightpink;
+    padding: 2%;
+  }
+  
+
+
+
+  .one{
+    
+    cursor: pointer;
+    display: inline-block;
+  }
+  .one{
+    color: white;
+    background-color:black;
+    border-radius: 20px;
+    margin-left: 600px;
+    margin-top: 40px;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    
+  }
+  
+
+
+  img{
+  
+    display: flex;
+    width: 30%;
+    height: 30%;
+  }
+  .post1{
+    background-color: lightslategray;
+  }
+  .post2{
+    background-color: lightgreen;
+  }
+  .post3{
+    background-color: lightcoral;
+  }
+  .post4{
+    background-color:lightsalmon;
+  }
+  .post5{
+    background-color: blueviolet;
+  }
+  .two{
+    
+    cursor: pointer;
+    display: inline-block;
+  }
+  .two{
+    color: black;
+    background-color:lawngreen;
+    border-radius: 20px;
+    margin-left: 600px;
+    margin-top: 40px;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    
+  }
+  .color1{
+    background-color: brown;
+    padding: 2%;
+  }
+  .tech1{
+    background-color: lightseagreen;
+  }
+  .tech2{
+    background-color:lemonchiffon;
+  }
+  .tech3{
+    background-color:lightslategray;
+  }
+  .tech4{
+    background-color: darkolivegreen;
+  }
+  .tech5{
+    background-color: darkcyan;
+  }
